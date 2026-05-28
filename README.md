@@ -30,6 +30,10 @@ This ensures comprehensive course discovery that combines real-time web data wit
 
 ---
 
+## Output 
+<img width="1300" height="676" alt="image" src="https://github.com/user-attachments/assets/2e7f7cb5-5129-409b-ac81-8a932c47b209" />
+
+
 ## 🚀 Getting Started
 
 ### 1️⃣ Prerequisites & Account Setup
