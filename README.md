@@ -1,4 +1,4 @@
-# CourseScout AI: Course Discovery AI Agent
+# CourseScout: Intelligent Multi-Agent Academic Discovery Engine
 
 > **An intelligent web agent that revolutionizes online learning discovery through automated scraping, visual analysis, and personalized course recommendations.**
 
