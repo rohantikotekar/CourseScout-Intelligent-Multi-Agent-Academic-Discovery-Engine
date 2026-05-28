@@ -228,9 +228,8 @@ Return formatted results + visual preview
 
 ## 🧑‍💻 Community & Support
 
-📧 **Contact**: [rohantikotekar@gmail.com]
-🔗 **GitHub**: [github.com/rohantikotekar]
+📧 **Contact**: [rtiko001@gmail.com]
 
 ---
 
-**Built with ❤️ for the future of AI-powered education discovery by Rohan Tikotekar**
+**Built with ❤️ by Rohan Tikotekar**
