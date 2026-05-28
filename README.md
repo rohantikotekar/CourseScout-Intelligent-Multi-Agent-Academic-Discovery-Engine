@@ -2,7 +2,11 @@
 
 > **An intelligent web agent that revolutionizes online learning discovery through automated scraping, visual analysis, and personalized course recommendations.**
 
-CourseScout AI is a **next-generation course discovery platform** that eliminates the tedious process of manually browsing through countless online courses. It leverages advanced AI agents powered by GPT-4 and Playwright automation to intelligently scrape, analyze, and recommend courses from deeplearning.ai based on your specific learning goals. This ensures you find the perfect courses tailored to your skill level and interests in seconds, not hours.
+## 🛑 The Problem
+University academic advising is slow and bottlenecked. Students must manually track dense catalogs, complex prerequisites, and shifting schedules. Static search portals only filter by basic keywords, failing to understand a student's career goals. This manual mess leads to wrong course choices, missed skills, and delayed graduation.
+
+## 💡 The Solution
+CourseScout automates advising with a multi-agent AI system. Using CrewAI, specialized agents analyze a student's transcript, skills, and career goals. The system parses complex syllabi to build optimized, multi-quarter schedules. This gives students instant, personalized academic roadmaps while removing the manual workload from advisors.
 
 ---
 
